@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    background-color: #CACACA;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+/* H1 padrão */
+h1 {
+    color: #878787;
+}
+
+/* H1 com ID "one" */
+h1#one {
+    color: #202022;
+    text-align: center;
+}
+
+/* H2 com classe "one" */
+h2.one {
+    color: #00747C;
+}
+
+/* H2 com classe "two" */
+h2.two {
+    color: #00BBC9;
+}
+
+/* H2 com classe "three" */
+h2.three {
+    color: #878787;
+}
